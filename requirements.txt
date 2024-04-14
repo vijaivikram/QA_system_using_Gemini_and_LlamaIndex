@@ -5,5 +5,5 @@ pypdf
 python-dotenv
 IPython
 llama-index-embeddings-gemini
-streamlit
+streamlit==1.29.0
 ipykernel
